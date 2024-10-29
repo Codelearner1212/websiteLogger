@@ -165,7 +165,7 @@ client.once('ready', async () => {
   console.log('Bot is online!');
   client.user.setPresence({
     activities: [{
-      name: '9/11',
+      name: '9.12.2',
       type: ActivityType.Watching,
     }],
     status: 'dnd'
